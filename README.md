@@ -17,10 +17,10 @@ The testing is going on different systems.
 <h1>Install and Run</h1>
 1. Download or Clone the Repository.<br>
 2. Open that folder in Terminal (Linux/MacOS) or CMD/Powershell (Windows).<br>
-3. Type the following command : <br>
+3. Type the following command : <br><br>
 <i>
 
-For Windows<br><br>
+For Windows<br>
 
 ```
 python QRDataHarvester.py -i "name_of_image.png/path_of_image_file_with_filename.png" -o "name_of_text_file.txt"
@@ -28,7 +28,7 @@ python QRDataHarvester.py -i "name_of_image.png/path_of_image_file_with_filename
 </i>
 
 <i>
-For Linux/MacOS<br>
+For Linux/MacOS<br><br>
 
 ```
 ./python QRDataHarvester.py -i "name_of_image.png/path_of_image_file_with_filename.png" -o "name_of_text_file.txt"
